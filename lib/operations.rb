@@ -18,6 +18,7 @@ def not_safe?(speed)
     false
   end
 end
-	
+
+def not_safe?(speed)	
 
 
